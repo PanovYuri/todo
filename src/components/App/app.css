@@ -1,0 +1,9 @@
+.app {
+    max-width: 700px; 
+}
+
+@media (min-width: 768px) { 
+    .app {
+        margin-top: 200px;
+    }
+}
